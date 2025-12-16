@@ -1,7 +1,7 @@
 # instale a biblioteca
 pip install yt-dlp
 
-# após isso vá na pasta em que a biblioteca foi instalada, exempplo \AppData\Local\etc e no terminal escreva:
+# após isso vá na pasta em que a biblioteca foi instalada, exemplo \AppData\Local\etc e no terminal escreva:
 .\yt-dlp.exe --write-url-link https://youtu.be/SYD1MmZvR1s?si=uj4GRqAtRTnSlwav
 
 # alterando apenas o link do video para o que deseja baixar
